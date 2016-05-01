@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chenxiaba.com/"/>
-  <updated>2016-04-27T17:53:48.000Z</updated>
+  <updated>2016-05-01T11:48:48.000Z</updated>
   <id>http://chenxiaba.com/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客开张</title>
+    <link href="http://chenxiaba.com/2016/05/01/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0/"/>
+    <id>http://chenxiaba.com/2016/05/01/博客开张/</id>
+    <published>2016-05-01T11:43:00.000Z</published>
+    <updated>2016-05-01T11:48:48.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;难忘初心&quot;&gt;&lt;a href=&quot;#难忘初心&quot; class=&quot;headerlink&quot; title=&quot;难忘初心&quot;&gt;&lt;/a&gt;难忘初心&lt;/h2&gt;&lt;p&gt;从大学毕业开始就梦想有一天能够经营自己的技术博客，但是，就这么工作5年，一晃而过，一直在忙忙碌碌里度过，博客几经起伏，还是没有能够坚持下来。&lt;br&gt;如今又重新拾起，借助博客的记录，希望以后无论多忙，还是需要静下心来好好思考当前和以后，沉淀该沉淀的，不应该在忙碌中，忘却自己的追求，和自己真正想去做的事和走的路。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;难忘初心&quot;&gt;&lt;a href=&quot;#难忘初心&quot; class=&quot;headerlink&quot; title=&quot;难忘初心&quot;&gt;&lt;/a&gt;难忘初心&lt;/h2&gt;&lt;p&gt;从大学毕业开始就梦想有一天能够经营自己的技术博客，但是，就这么工作5年，一晃而过，一直在忙忙碌碌里度过，博客几经起伏，还是没
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
