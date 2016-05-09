@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chenxiaba.com/"/>
-  <updated>2016-05-05T18:46:25.000Z</updated>
+  <updated>2016-05-09T17:35:04.000Z</updated>
   <id>http://chenxiaba.com/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工具汇总</title>
+    <link href="http://chenxiaba.com/2016/05/10/%E5%B7%A5%E5%85%B7%E6%B1%87%E6%80%BB/"/>
+    <id>http://chenxiaba.com/2016/05/10/工具汇总/</id>
+    <published>2016-05-09T17:29:41.000Z</published>
+    <updated>2016-05-09T17:35:04.000Z</updated>
+    
+    <content type="html">&lt;p&gt;收录自己常用的工具，关于效率、编码等&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;办公工具&quot;&gt;&lt;a href=&quot;#办公工具&quot; class=&quot;headerlink&quot; title=&quot;办公工具&quot;&gt;&lt;/a&gt;办公工具&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://asciinema.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;asciinema&lt;/a&gt; Record and share your terminal sessions, the right way.   &lt;/p&gt;
+&lt;h2 id=&quot;个人管理&quot;&gt;&lt;a href=&quot;#个人管理&quot; class=&quot;headerlink&quot; title=&quot;个人管理&quot;&gt;&lt;/a&gt;个人管理&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://www.xmind.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;xmind&lt;/a&gt; The most popular mind mapping software.   &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;收录自己常用的工具，关于效率、编码等&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="效率" scheme="http://chenxiaba.com/tags/%E6%95%88%E7%8E%87/"/>
+    
+  </entry>
   
   <entry>
     <title>围城</title>
